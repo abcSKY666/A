@@ -1,1 +1,3 @@
-lets
+@echo off
+echo Running commands.
+
